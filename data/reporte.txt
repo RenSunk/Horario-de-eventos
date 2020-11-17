@@ -1,0 +1,62 @@
+Eventos por dias: 
+Eventos En El Dia 1: 0
+Eventos En El Dia 2: 0
+Eventos En El Dia 3: 0
+Eventos En El Dia 4: 1
+Eventos En El Dia 5: 0
+Eventos En El Dia 6: 0
+Eventos En El Dia 7: 0
+Eventos En El Dia 8: 0
+Eventos En El Dia 9: 0
+Eventos En El Dia 10: 0
+Eventos En El Dia 11: 0
+Eventos En El Dia 12: 0
+Eventos En El Dia 13: 0
+Eventos En El Dia 14: 0
+Eventos En El Dia 15: 0
+Eventos En El Dia 16: 0
+Eventos En El Dia 17: 0
+Eventos En El Dia 18: 0
+Eventos En El Dia 19: 0
+Eventos En El Dia 20: 0
+Eventos En El Dia 21: 0
+Eventos En El Dia 22: 0
+Eventos En El Dia 23: 0
+Eventos En El Dia 24: 0
+Eventos En El Dia 25: 0
+Eventos En El Dia 26: 0
+Eventos En El Dia 27: 0
+Eventos En El Dia 28: 1
+Eventos En El Dia 29: 0
+Eventos En El Dia 30: 0
+Eventos En El Dia 31: 0
+---------------------------------------------------------------------------
+Eventos por hora: 
+Eventos En La Hora 1: 0
+Eventos En La Hora 2: 0
+Eventos En La Hora 3: 0
+Eventos En La Hora 4: 0
+Eventos En La Hora 5: 0
+Eventos En La Hora 6: 0
+Eventos En La Hora 7: 0
+Eventos En La Hora 8: 1
+Eventos En La Hora 9: 0
+Eventos En La Hora 10: 0
+Eventos En La Hora 11: 0
+Eventos En La Hora 12: 0
+Eventos En La Hora 13: 0
+Eventos En La Hora 14: 0
+Eventos En La Hora 15: 0
+Eventos En La Hora 16: 0
+Eventos En La Hora 17: 0
+Eventos En La Hora 18: 1
+Eventos En La Hora 19: 0
+Eventos En La Hora 20: 0
+Eventos En La Hora 21: 0
+Eventos En La Hora 22: 0
+Eventos En La Hora 23: 0
+Eventos En La Hora 24: 0
+---------------------------------------------------------------------------
+Eventos totales: 2
+---------------------------------------------------------------------------
+Dia Del Mes Con Menos Eventos: 31

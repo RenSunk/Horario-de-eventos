@@ -1,0 +1,8 @@
+*
+sin descripcion.
+**
+Shinanime,cali,./data/imagenes/39409.png,4,18
+*
+sin descripcion.
+**
+Anime no Matsuri,hola,./data/imagenes/39409.png,28,8
